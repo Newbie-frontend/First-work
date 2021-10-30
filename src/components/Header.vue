@@ -28,7 +28,7 @@ export default {
 .navbar {
   padding-left: 1rem;
 }
-.nav-link, navbar-brand{
+.nav-link, .navbar-brand{
   cursor: text;
 }
 </style>
