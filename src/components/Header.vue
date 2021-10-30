@@ -29,6 +29,6 @@ export default {
   padding-left: 1rem;
 }
 .b-narbar-item{
-  color: white;
+  color: red;
 }
 </style>
