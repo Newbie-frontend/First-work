@@ -7,10 +7,10 @@
 
       <b-collapse id="nav-collapse" is-nav>
         <b-navbar-nav>
-          <b-nav-item href="#"
+          <b-nav-item href="#" active
             >Question {{ numTotal }}/10</b-nav-item
           >
-           <b-nav-item href="#"
+           <b-nav-item href="#" active
             >Correct Answers : {{ numCorrect }}</b-nav-item
           >
         </b-navbar-nav>
@@ -28,7 +28,7 @@ export default {
 .navbar {
   padding-left: 1rem;
 }
-b-navbar-item , b-navbar-brand{
-  cursor: none;
+.nav-link, navbar-brand{
+  cursor: text;
 }
 </style>
