@@ -29,6 +29,6 @@ export default {
   padding-left: 1rem;
 }
 b-navbar-item , b-navbar-brand{
-  cursor: text;
+  cursor: none;
 }
 </style>
