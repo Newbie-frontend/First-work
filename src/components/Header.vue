@@ -28,4 +28,7 @@ export default {
 .navbar {
   padding-left: 1rem;
 }
+.b-narbar-item{
+  color: white;
+}
 </style>
